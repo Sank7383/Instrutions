@@ -1,0 +1,13 @@
+This is code directly taken from arduino folder
+
+Controller AP Name
+
+Ncs_sc + macID = Ncs_scD657(example)
+
+PassWord : nurse12345
+
+Server pages:
+
+/change to make changes in room settings
+
+/debug to live debug buttons and rooms ( in debug adcnotok sholud shows it is working properly)
